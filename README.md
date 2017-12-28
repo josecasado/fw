@@ -1,7 +1,7 @@
 
 ACI Service Insertion Use Case
 
-Web portal for the lab, IPs reached from corporate
+Menu command line for the lab, IPs reached from corporate
 
 Includes Dockerfile + requirements.txt
 
